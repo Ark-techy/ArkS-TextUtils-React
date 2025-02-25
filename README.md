@@ -14,10 +14,10 @@ My first React app! A text utility tool to manipulate text in real-time.
 - Live text preview
 
 ## Screenshots 🖼️
-![App Interface](./screenshots/demo-light.png)  
+![App Interface](./demo-light.png)  
 *Light Mode*
 
-![App Interface](./screenshots/demo-dark.png)  
+![App Interface](./demo-dark.png)  
 *Dark Mode*
 
 ## Installation ⚙️
